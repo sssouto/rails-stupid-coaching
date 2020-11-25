@@ -1,0 +1,26 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.banner_question {
+  background-color:#FFFFFF;
+  padding: 4px 4px;
+  border-left-style: solid;
+  border-left-color:#DDDDDD;
+  border-left-width: 6px;
+  margin-bottom: 16px;
+  width: 500px;
+}
+
+.banner_answer {
+  background-color: #FFFFE1;
+  padding: 4px 4px;
+  border-left-style: solid;
+  border-left-color:#DDDDDD;
+  border-left-width: 6px;
+  margin-bottom: 16px;
+  width: 500px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
